@@ -1,0 +1,17 @@
+
+#addbtn:hover {
+    background-color: rgb(32, 216, 32);
+}
+
+.main {
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.div2 {
+    display: flex;
+}
+
+#list {
+    display: flex;
+}
